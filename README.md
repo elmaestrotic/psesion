@@ -1,4 +1,4 @@
-Ejemplo de poryecto en Java que usa un archivo txt para almacenar usuarios y cargarlos
+Ejemplo de proyecto en Java que usa un archivo txt para almacenar usuarios y cargarlos
 en un vector unidimensional e iniciar sesión
 
 Favor mirar el siguiente vídeo:
